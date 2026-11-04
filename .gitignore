@@ -1,0 +1,35 @@
+# Not part of the buildable project (large, regenerated, or tool output)
+/ripped/
+/apk/
+/apk_extracted/
+/src_decompiled/
+/data_json/
+/tools/
+/apk_build.log
+/scratchpad/
+
+# Build output and dependencies
+node_modules/
+dist/
+dist_check/
+*.tsbuildinfo
+
+# Android build output (the project itself under web/android is kept)
+web/android/.gradle/
+web/android/build/
+web/android/app/build/
+web/android/capacitor-cordova-android-plugins/
+web/android/local.properties
+web/android/app/src/main/assets/public/
+web/android/app/src/main/assets/capacitor.config.json
+web/android/app/src/main/assets/capacitor.plugins.json
+web/android/app/src/main/res/xml/config.xml
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Logs and OS noise
+*.log
+.DS_Store
+Thumbs.db

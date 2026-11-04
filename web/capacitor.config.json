@@ -1,0 +1,8 @@
+{
+  "appId": "com.drowlord.dwlegacy",
+  "appName": "Doctor Who Legacy",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}

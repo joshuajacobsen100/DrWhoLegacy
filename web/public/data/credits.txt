@@ -1,0 +1,236 @@
+DOCTOR WHO: LEGACY
+
+
+Original design, creative direction,
+and executive produced by
+
+Tiny Rebel Games
+
+Published by Tiny Rebel Games.
+
+Tiny Rebel Games are
+Lee Cummings & Susan Cummings
+
+Launch Story by:
+Lee Cummings & Ben Badgett
+
+Post launch,
+"Bigger on the Inside" &
+"Sonic Adventure" story:
+Lee Cummings
+
+Additional ​Design support:
+Ben Badgett, Dan Bridge,
+Lanyon Cummings.
+
+Tiny Rebel "Bear" Artist:
+Tamsin Baker
+
+Ingame Music produced &
+arranged by:
+Chris Huelsbeck & Fabian Del Priore
+
+Additional SFX design & editing
+Mark Michel-Ruddy
+
+
+Public Relations - Indigo Pearl
+Kirsty Endfield & Megan King
+
+
+
+
+Seed Studio Inc.
+
+Executive Producer:
+Richard Wu
+
+VP of Production:
+Jack Yee
+
+Producers:
+Kuenda Lee
+
+ART/DESIGN
+
+Art/Game Director:
+Alan Kuo
+
+Artists:
+Yu-Jie Chang
+Chia-Ying Chen
+Lin Jiang
+Mel Lee
+Yu-Chen Lu
+Iu-Jane Tsai
+
+
+Game Design:
+Yi-Hsiang Chen
+Tin-Kai Chen
+Tu-Jhih Cheng
+Wei-Hsuan Ho
+Kuenda Lee
+
+PROGRAMMING
+
+Technical Director:
+Jack Yee
+
+Programmers:
+Tin-Kai Chen
+Hung-Kai Chen
+Zh-Xun Li
+Kuo-Cheng Li
+Ting-Yu Lien
+Tzu-Yuan Lin
+Chi-Wei Liu
+Chia-Wei Tseng
+Chin-Yu Wei
+Wei-Hsiang Yang
+
+QA
+Chun-Hung Lin
+
+IT DEPARTMENT
+Hsiao-Cheng Hung
+
+Everyone else at Seed Studio
+Pei-Shih Cheng
+Wei-Chieh Kuo
+Hsuan-Tsung Wang
+Sabrina Wu
+Shu-Hung Yeh
+
+Special Thanks:
+Jimmy Foo
+Shun-Wen Cheng
+Kuo-Chih Shu
+Juny Chen
+
+
+"Bigger on the Inside"
+Original pixelated artwork
+provided by:
+PixelWho
+
+PixelWho Team includes:
+Nathan Skreslet (Artist &
+Pixel Wrangler)
+
+Ly Cao (Manager & PR Fairy)
+
+
+
+
+
+Additional QA by Sculpin QA
+
+Project Manager:
+Max Knechtel
+
+Lead Tester:
+Kiefer Richardson
+
+Testers:
+Chris Amos
+Garrett McPhee
+Joel MacNeill
+Marrissa Hall
+
+
+
+
+Tiny Rebel Special Thanks
+
+Ian and Jan Cummings
+and the whole Tiny Rebel gang,
+Seth Lewis, Peter Hickman,
+Paul Joffe, Rob Pfau,
+Devin Winterbottom, Alex Green,
+Josh Richmond, Mike Johnson,
+Tim Walsh, Michael Powers,
+Scott Stewart,
+David Lowe and the Bexhill Crew,
+Brian Minchin, Steven Moffat,
+Edward Russell, Matt Nichols,
+James Dudley,
+Derek Thomas (Plan of Attack PR),
+and The Cure for getting
+us through crunch.
+
+
+Community Thanks
+
+A huge thanks to the whole of the
+amazing Doctor Who: Legacy
+community who make this
+live game possible.
+
+Special thanks:
+The Adipose
+Sharee MacDonald
+Brenna McGrath
+The Legacy Wiki team
+
+
+
+
+
+
+BBC, DOCTOR WHO (word marks,
+logos and devices), TARDIS, DALEKS,
+CYBERMAN and K-9 (word marks
+and devices) are trade marks of the
+British Broadcasting Corporation
+and are used under licence.
+
+
+
+Futile
+
+Source code for Futile is
+Copyright © 2013 Matt Rix and
+contributors.
+Permission is hereby granted,
+free of charge, to any person
+obtaining a copy of this software
+and associated documentation
+files (the “Software”), to deal in the
+Software without restriction,
+including without limitation the
+rights to use, copy, modify, merge,
+publish, distribute, sublicense,
+and/or sell copies of the Software,
+and to permit persons to whom
+the Software is furnished to do
+so, subject to the following
+conditions:
+The above copyright notice and this
+permission notice shall be included
+in all copies or substantial portions
+of the Software.
+THE SOFTWARE IS PROVIDED "AS IS,"
+WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE
+AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+
+
+
+
+
+
+
